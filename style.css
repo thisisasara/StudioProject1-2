@@ -178,6 +178,20 @@ Body{
     z-index:9999999;
 }
 
+
+.excerpts2{
+    color:white;
+    font-size: 1.3vw;
+    text-align: right;
+    margin-left: 84vw;
+    position: fixed;
+    line-height: 2.6vw;
+    margin-top:4vw;
+    z-index:9999999;
+    display:none;
+}
+
+
 a{
     font-family: franklin-gothic-urw, sans-serif;
     font-weight: 100;
@@ -232,6 +246,8 @@ d{
 b2{
     font-weight:900;
 }
+
+
 
 .excerpts:hover {
 	animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
@@ -380,7 +396,7 @@ b2{
     font-size:5.5vw;
     font-style: italic;
     margin-left:40vw;
-    margin-top: 161vw;
+    margin-top: 160vw;
     text-align: right;
     position: absolute;
     color:#4b0000;
@@ -703,6 +719,18 @@ em{
   }
 }
 
+.credits{
+    font-family: franklin-gothic-urw, sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    margin-top:583.5vw;
+    color:#c00000;
+    position: absolute;
+    z-index: 99999;
+    text-align: center;
+    font-size: 1vw;
+
+}
 
 
 
